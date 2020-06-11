@@ -35,4 +35,4 @@ Optimization:
 
 *IF THERE IS A COMBINATION WITH THE SAME USERNAME AND PASSWORD*
 
-The application will only print "LOGIN SUCCESSFUL"
+The application will print "LOGIN SUCCESSFUL"
