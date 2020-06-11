@@ -30,6 +30,9 @@ How creating a new user works:
 How the system handles duplicates:
 - When the user-inputted username matches with multiple username hashes stored in the database, all userIDs are pulled to be iterated and compared when checking the password hashes. Then, if one matches, "LOGIN SUCCESSFUL"
 
+Optimization:
+- Application has been optimized for fastest run time and lowest amount of storage space
+
 *IF THERE IS A COMBINATION WITH THE SAME USERNAME AND PASSWORD*
 
 The application will only print "LOGIN SUCCESSFUL"
